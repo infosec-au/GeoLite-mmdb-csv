@@ -4,17 +4,12 @@
 
 ## Download
 
-### URL1
-
-- [GeoLite2-ASN.mmdb](https://git.io/GeoLite2-ASN.mmdb)
-- [GeoLite2-City.mmdb](https://git.io/GeoLite2-City.mmdb)
-- [GeoLite2-Country.mmdb](https://git.io/GeoLite2-Country.mmdb)
-
-### URL2
-
-- [GeoLite2-ASN.mmdb](https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb)
-- [GeoLite2-City.mmdb](https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-City.mmdb)
-- [GeoLite2-Country.mmdb](https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb)
+- [GeoLite2-ASN.mmdb](https://github.com/infosec-au/GeoLite-mmdb-csv/raw/download/GeoLite2-ASN.mmdb)
+- [GeoLite2-City.mmdb](https://github.com/infosec-au/GeoLite-mmdb-csv/raw/download/GeoLite2-City.mmdb)
+- [GeoLite2-Country.mmdb](https://github.com/infosec-au/GeoLite-mmdb-csv/raw/download/GeoLite2-Country.mmdb)
+- [GeoLite2-ASN-CSV.zip](https://github.com/infosec-au/GeoLite-mmdb-csv/raw/download/GeoLite2-ASN-CSV.zip)
+- [GeoLite2-City-CSV.zip](https://github.com/infosec-au/GeoLite-mmdb-csv/raw/download/GeoLite2-City-CSV.zip)
+- [GeoLite2-Country-CSV.zip](https://github.com/infosec-au/GeoLite-mmdb-csv/raw/download/GeoLite2-Country-CSV.zip)
 
 ## License
 
