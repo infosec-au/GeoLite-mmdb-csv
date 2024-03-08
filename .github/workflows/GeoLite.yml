@@ -73,7 +73,7 @@ jobs:
       with:
         tag_name: ${{ env.TAG_NAME }}
         body: ${{ env.TAG_NAME }}
-        files: upload/*.mmdb
+        files: upload/*
 
     - name: Remove old Releases
       uses: dev-drprasad/delete-older-releases@master
